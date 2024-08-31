@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+html{background-color: rgb(234, 234, 234);}
+.logo{
+    font-size: 30pt;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #FFC300;
+    color: rgb(252, 252, 252);
+    margin: 0px;
+    padding: 17px;
+float: right;
+
+}
+.logo:hover{
+    background-color: black;
+}
+.ugh ul{
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #FFC300;
+    margin: 0px;
+    padding: 21.5px;
+}
+.ugh a{
+    text-decoration: none;
+    color: white;
+    display: block;
+margin: 0px;
+padding: 11px;
+
+}
+.ugh li{
+    float: left;
+}
+.ugh a:hover{
+    background-color: black;
+}
